@@ -25,4 +25,6 @@
       * [1.4.2 Constitutional Committee](1.-constitution/1.4-governance/1.4.3-decision-making/1.4.2-constitutional-committee.md)
       * [1.4.2.1 Voting](1.-constitution/1.4-governance/1.4.3-decision-making/1.4.2.1-voting.md)
       * [1.4.2.2 Constitutional Amendments](1.-constitution/1.4-governance/1.4.3-decision-making/1.4.2.2-constitutional-amendments.md)
-    * [1.4.4 Constitutional Court, Compliance & Conflict Resolution](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution.md)
+    * [1.4.4 Constitutional Court, Compliance & Conflict Resolution](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/README.md)
+      * [1.4.3.1 Voting Proposal Receivebility](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/1.4.3.1-voting-proposal-receivebility.md)
+    * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)

@@ -11,7 +11,7 @@ The problem that the DAO aims to solve is the need for high-quality consulting s
 In summary, the mission statement describes a DAO that is focused on providing high-quality consulting services to clients who are interested in learning more about blockchain technology, and on empowering and supporting a global community of blockchain experts.\
 "
 
-conversation with ChatGPT:\
+conversation with ChatGPT :\
 "\
 For the same context, describe a potential businessplan A potential business plan for the DAO described in the mission statement might include the following elements:
 
@@ -39,8 +39,7 @@ In summary, the customer problem that the DAO is addressing is the need for high
 "
 
 conversation with ChatGPT:\
-"\
-
+"\\
 
 suggest a brand strategy for the DAO business model
 
@@ -87,8 +86,6 @@ Overall, the key to an excellent logo is to create a design that effectively com
 My ideas on strength:\
 \* decision-path between market and implementation is shorter and more accurate
 
-
-
 conversation with ChatGPT:\
 "\
 make a swot analysis for the DAO
@@ -126,8 +123,7 @@ Threats:
 This is just one possible example of a SWOT analysis for a DAO focused on blockchain business consulting. Depending on the specific circumstances of your organization, you may want to focus on different aspects of your internal and external environment.\
 "
 
-My ideas on how to market the client product:\
-
+My ideas on how to market the client product:\\
 
 * we help you help better your clients
 *

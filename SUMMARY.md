@@ -53,3 +53,8 @@
   * [3.2 Phase 2: Voting of Operational Principles](3.-roadmap/3.2-phase-2-voting-of-operational-principles.md)
   * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
 * [Business plan](business-plan.md)
+
+## Group 1
+
+* [testpage 1](group-1/testpage-1.md)
+* [testpage 2](group-1/testpage-2.md)

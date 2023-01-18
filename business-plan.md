@@ -1,6 +1,6 @@
 # Business plan
 
-conversation with chatgpt:\
+Large conversation with chatgpt:\
 "\
 coming back to the mission statement here above, describe the customer and the problem solved The mission statement that I provided earlier describes a DAO that supports the global community of blockchain experts to cooperatively create and deliver blockchain consulting services to clients.
 

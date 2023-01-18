@@ -28,4 +28,5 @@
     * [1.4.4 Constitutional Court, Compliance & Conflict Resolution](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/README.md)
       * [1.4.3.1 Voting Proposal Receivebility](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/1.4.3.1-voting-proposal-receivebility.md)
     * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
-* [2. Organisational Architecture](2.-organisational-architecture.md)
+* [2. Organisational Architecture](2.-organisational-architecture/README.md)
+  * [2.1 Blockchain & DAO Platform](2.-organisational-architecture/2.1-blockchain-and-dao-platform.md)

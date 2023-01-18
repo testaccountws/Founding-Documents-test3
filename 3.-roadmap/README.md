@@ -1,6 +1,6 @@
 # 3. Roadmap
 
-conversation with ChatGPT:\
+Quick conversation with ChatGPT:\
 "\
 As a DAO entrepreneur, what should I concentrate on in 2023? As a DAO entrepreneur, there are a few key areas that you may want to concentrate on in 2023:
 

@@ -39,3 +39,4 @@
       * [Measurement of Work Contributions](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/README.md)
         * [Governance Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/governance-related-work.md)
         * [Production Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/production-related-work.md)
+      * [2.3.1 Tokenomics](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics.md)

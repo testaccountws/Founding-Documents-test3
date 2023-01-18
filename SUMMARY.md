@@ -33,3 +33,4 @@
   * [2.2 Web Portal](2.-organisational-architecture/2.2-web-portal.md)
   * [2.3 Governance Environment](2.-organisational-architecture/2.3-governance-environment/README.md)
     * [2.2.1 Discussion Forum & Voting](2.-organisational-architecture/2.3-governance-environment/2.2.1-discussion-forum-and-voting.md)
+    * [2.2 Appointment of Executors](2.-organisational-architecture/2.3-governance-environment/2.2-appointment-of-executors.md)

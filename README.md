@@ -22,3 +22,4 @@
   * the purchase of newly created utility coins
 * The cumulative holding of the utility coin by 1 legal entity can not exceed 1% of the total supply
   * In case a
+  *

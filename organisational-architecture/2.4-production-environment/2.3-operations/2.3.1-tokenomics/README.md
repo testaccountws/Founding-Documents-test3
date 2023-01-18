@@ -16,10 +16,8 @@ The treasury of TBA DAO will serve as backing for the value of the utility token
 
 TBA DAO issues a utility token with ticker TBA, which serves as means of payment for the services delivered to clients as well as for internal services between DAO participants.
 
-The total and final number of utility tokens will amount to 100 million tokens and will be issued at the launch of the DAO.&#x20;
+The total and final number of utility tokens will amount to 100 million tokens and will be issued at the launch of the DAO.
 
-50 times 1 million will be offered as an airdrop to 50 co-founders. 50 times 1 million will be offered for purchase. In accordance with the [governance constitution, ](broken-reference)the cumulative holding of the TBA utility coin by 1 legal entity can not exceed 1% of the total supply.
-
-
+50 times 1 million will be offered as an airdrop to 50 co-founders. 50 times 1 million will be offered for purchase. In accordance with the [governance constitution, ](../../../../2.-organisational-architecture/2.4-production-environment/2.3-operations/broken-reference/)the cumulative holding of the TBA utility coin by 1 legal entity can not exceed 1% of the total supply.
 
 ## Governance Token

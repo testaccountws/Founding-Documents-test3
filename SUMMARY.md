@@ -30,3 +30,4 @@
     * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
 * [2. Organisational Architecture](2.-organisational-architecture.md)
   * [2.1 Blockchain & DAO Platform](2.-organisational-architecture/2.1-blockchain-and-dao-platform.md)
+  * [2.2 Web Portal](2.-organisational-architecture/2.2-web-portal.md)

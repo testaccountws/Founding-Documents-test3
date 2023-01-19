@@ -65,4 +65,3 @@
 
 * [Business plan](business-plan.md)
 * [teammate](business-plan/teammate.md)
-* [teammate2](business-plan/teammate2.md)

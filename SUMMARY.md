@@ -64,3 +64,5 @@
 ## Business Plan
 
 * [Business plan](business-plan.md)
+* [teammate](business-plan/teammate.md)
+* [Page 1](business-plan/page-1.md)

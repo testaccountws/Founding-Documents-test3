@@ -2,7 +2,7 @@
 
 ## Constitution
 
-* [Intro](Intro.md)
+* [Intro](1.-constitution/Intro.md)
 * [1.1 Vision](README.md)
 * [1.2 Mission](1.-constitution/1.2-mission.md)
 * [1.3 Values](1.-constitution/1.3-values/README.md)

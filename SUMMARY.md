@@ -31,6 +31,7 @@
   * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
 * [Intro](<README (1).md>)
 * [to check out](constitution/to-check-out.md)
+* [Test](constitution/test.md)
 
 ## Organisational Architecture
 

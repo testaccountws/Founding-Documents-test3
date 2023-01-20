@@ -29,7 +29,7 @@
   * [1.4.4 Constitutional Court, Compliance & Conflict Resolution](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/README.md)
     * [1.4.3.1 Voting Proposal Receivebility](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/1.4.3.1-voting-proposal-receivebility.md)
   * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
-* [1. Constitution](<README (1).md>)
+* [Intro](<README (1).md>)
 * [to check out](constitution/to-check-out.md)
 
 ## Organisational Architecture

@@ -1,6 +1,6 @@
-# 1. Constitution
+# Intro
 
-* TBA DAO is a DAO by and for public permissionless Blockchain business consultants and all sorts of relevant contributors, from designers and programmers to researchers and community managers to name a few.
+* TBA DAO is a DAO that proposes collaboration by and for public permissionless Blockchain business consultants and all sorts of relevant contributors, from designers and programmers to researchers and community managers to name a few.
 * The purpose of TBA DAO consists of creating and delivering cooperatively public permissionless Blockchain business consulting services to clients
   * TBA DAO delivers business consulting services only on Public Permissionless Blockchains
   * The creation and delivery of business consulting services are realised through cooperation between the contributors in TBA DAO

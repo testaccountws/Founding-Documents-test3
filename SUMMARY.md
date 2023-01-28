@@ -59,7 +59,6 @@
 ## Business Plan
 
 * [Business plan](business-plan.md)
-* [Final trial](business-plan/final-trial.md)
 
 ## Roadmap
 

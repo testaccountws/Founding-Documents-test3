@@ -66,8 +66,3 @@
 * [3.1 Phase 1: Initial Community Creation](3.-roadmap/3.1-phase-1-initial-community-creation.md)
 * [3.2 Phase 2: Voting of Operational Principles](3.-roadmap/3.2-phase-2-voting-of-operational-principles.md)
 * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
-
-## Group 1
-
-* [new group Page 1](group-1/new-group-page-1.md)
-* [Page 1](group-1/page-1.md)

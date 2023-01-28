@@ -56,6 +56,10 @@
       * [2.3.2.3 Transferability](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.2-tokenisation-of-work/2.3.2.3-transferability.md)
     * [2.3.4 Treasury](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.4-treasury.md)
 
+## Business Plan
+
+* [Business plan](business-plan.md)
+
 ## Roadmap
 
 * [3. Roadmap](3.-roadmap/README.md)
@@ -63,7 +67,6 @@
 * [3.2 Phase 2: Voting of Operational Principles](3.-roadmap/3.2-phase-2-voting-of-operational-principles.md)
 * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
 
-## Business Plan
+## Group 1
 
-* [Business plan](business-plan.md)
-* [Final trial](business-plan/final-trial.md)
+* [new group Page 1](group-1/new-group-page-1.md)

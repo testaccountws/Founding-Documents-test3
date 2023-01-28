@@ -59,7 +59,7 @@
 
 ## Business Plan
 
-* [Business plan](business-plan.md)
+* [Business plan](business-plan/business-plan.md)
 
 ## Roadmap
 

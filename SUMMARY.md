@@ -2,7 +2,7 @@
 
 ## 1. Constitution
 
-* [Introduction](1.-constitution/Introduction.md)
+* [Introduction](README.md)
 * [1.1 Vision](1.-constitution/1.1-vision.md)
 * [1.2 Mission](1.-constitution/1.2-mission.md)
 * [1.3 Values](1.-constitution/1.3-values/README.md)
@@ -32,10 +32,10 @@
   * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
 * [to check out](1.-constitution/to-check-out.md)
 
-## Organisational Architecture
+## 2. Organisational Architecture
 
 * [2.0 Organisational Architecture](2.-organisational-architecture/2.-organisational-architecture.md)
-* [Development requirements](organisational-architecture/development-requirements.md)
+* [Development requirements](2.-organisational-architecture/development-requirements.md)
 * [2.1 Blockchain & DAO Platform](2.-organisational-architecture/2.1-blockchain-and-dao-platform.md)
 * [2.2 Web Portal](2.-organisational-architecture/2.2-web-portal.md)
 * [2.3 Governance Environment](2.-organisational-architecture/2.3-governance-environment/README.md)
@@ -46,7 +46,7 @@
     * [Measurement of Work Contributions](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/README.md)
       * [Governance Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/governance-related-work.md)
       * [Production Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/production-related-work.md)
-    * [2.3.1 Tokenomics](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics.md)
+    * [2.3.1 Tokenomics](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/README.md)
       * [2.3.1.1 Utility Token](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.1-utility-token.md)
       * [2.3.1.2 Supply](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.2-supply.md)
       * [2.3.1.3 Automated Market Maker](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.3-automated-market-maker.md)

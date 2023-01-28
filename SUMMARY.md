@@ -35,6 +35,7 @@
 ## Organisational Architecture
 
 * [2. Organisational Architecture](2.-organisational-architecture.md)
+* [Development requirements](organisational-architecture/development-requirements.md)
 * [2.1 Blockchain & DAO Platform](2.-organisational-architecture/2.1-blockchain-and-dao-platform.md)
 * [2.2 Web Portal](2.-organisational-architecture/2.2-web-portal.md)
 * [2.3 Governance Environment](2.-organisational-architecture/2.3-governance-environment/README.md)

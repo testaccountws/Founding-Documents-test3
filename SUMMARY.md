@@ -70,4 +70,3 @@
 ## Group 1
 
 * [new group Page 1](group-1/new-group-page-1.md)
-* [Page 1](group-1/page-1.md)

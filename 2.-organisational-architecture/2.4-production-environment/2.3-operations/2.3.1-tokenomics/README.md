@@ -18,6 +18,6 @@ TBA DAO issues a utility token with ticker TBA, which serves as means of payment
 
 The total and final number of utility tokens will amount to 100 million tokens and will be issued at the launch of the DAO.
 
-50 times 1 million will be offered as an airdrop to 50 co-founders. 50 times 1 million will be offered for purchase. In accordance with the [governance constitution, ](broken-reference/)the cumulative holding of the TBA utility coin by 1 legal entity can not exceed 1% of the total supply.
+50 times 1 million will be offered as an airdrop to 50 co-founders. 50 times 1 million will be offered for purchase. In accordance with the [governance constitution, ](../broken-reference/)the cumulative holding of the TBA utility coin by 1 legal entity can not exceed 1% of the total supply.
 
 ## Governance Token

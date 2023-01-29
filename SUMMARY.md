@@ -1,8 +1,10 @@
 # Table of contents
 
-## Constitution
+## 1. Constitution
 
-* [1.1 Vision](README.md)
+* [Introduction](README.md)
+* [1.1 Vision](1.-constitution/1.1-vision.md)
+* [Page 4](1.-constitution/page-4.md)
 * [1.2 Mission](1.-constitution/1.2-mission.md)
 * [1.3 Values](1.-constitution/1.3-values/README.md)
   * [1.3.1 Economics is a Choice](1.-constitution/1.3-values/1.3.1-economics-is-a-choice.md)
@@ -29,12 +31,12 @@
   * [1.4.4 Constitutional Court, Compliance & Conflict Resolution](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/README.md)
     * [1.4.3.1 Voting Proposal Receivebility](1.-constitution/1.4-governance/1.4.4-constitutional-court-compliance-and-conflict-resolution/1.4.3.1-voting-proposal-receivebility.md)
   * [1.4.5 Risk Assessment Committee](1.-constitution/1.4-governance/1.4.5-risk-assessment-committee.md)
-* [1. Constitution](<README (1).md>)
-* [to check out](constitution/to-check-out.md)
+* [to check out](1.-constitution/to-check-out.md)
 
-## Organisational Architecture
+## 2. Organisational Architecture
 
-* [2. Organisational Architecture](2.-organisational-architecture.md)
+* [2.0 Diagram](2.-organisational-architecture/2.-organisational-architecture.md)
+* [Development requirements](2.-organisational-architecture/development-requirements.md)
 * [2.1 Blockchain & DAO Platform](2.-organisational-architecture/2.1-blockchain-and-dao-platform.md)
 * [2.2 Web Portal](2.-organisational-architecture/2.2-web-portal.md)
 * [2.3 Governance Environment](2.-organisational-architecture/2.3-governance-environment/README.md)
@@ -45,7 +47,7 @@
     * [Measurement of Work Contributions](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/README.md)
       * [Governance Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/governance-related-work.md)
       * [Production Related Work](2.-organisational-architecture/2.4-production-environment/2.3-operations/measurement-of-work-contributions/production-related-work.md)
-    * [2.3.1 Tokenomics](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics.md)
+    * [2.3.1 Tokenomics](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/README.md)
       * [2.3.1.1 Utility Token](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.1-utility-token.md)
       * [2.3.1.2 Supply](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.2-supply.md)
       * [2.3.1.3 Automated Market Maker](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.1-tokenomics/2.3.1.3-automated-market-maker.md)
@@ -55,6 +57,10 @@
       * [2.3.2.3 Transferability](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.2-tokenisation-of-work/2.3.2.3-transferability.md)
     * [2.3.4 Treasury](2.-organisational-architecture/2.4-production-environment/2.3-operations/2.3.4-treasury.md)
 
+## Business Plan
+
+* [Business plan](business-plan/business-plan.md)
+
 ## Roadmap
 
 * [3. Roadmap](3.-roadmap/README.md)
@@ -62,7 +68,7 @@
 * [3.2 Phase 2: Voting of Operational Principles](3.-roadmap/3.2-phase-2-voting-of-operational-principles.md)
 * [3.3 Phase 3: Programming & Implementation](3.-roadmap/3.3-phase-3-programming-and-implementation.md)
 
-## Business Plan
+## Group 3
 
-* [Business plan](business-plan.md)
-* [Final trial](business-plan/final-trial.md)
+* [Page 1](group-3/page-1.md)
+  * [Test Title 1](group-3/page-1/test-title-1.md)

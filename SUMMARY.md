@@ -70,4 +70,5 @@
 
 ## Group 3
 
-* [Page 1](group-3/page-1.md)
+* [Page 1](group-3/page-1/README.md)
+  * [Page 2](group-3/page-1/page-2.md)
